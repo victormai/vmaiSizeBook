@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="121811409886068"
+    token="64107607912639197"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="121773471121994"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="121811409886068"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>
