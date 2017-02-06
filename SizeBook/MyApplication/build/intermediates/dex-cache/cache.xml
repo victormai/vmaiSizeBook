@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_5866ef58d410e177e326a5374db2eea94070beb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-core-2.2.2_765b05b7d10d190a2e67bcced4577d09643ea5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_3abfcb231b516c46280b0922c9accc724f60a3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_950e900068d95ab1d55731d8b4bcf9c5cd710ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_09d241040bb303f9ec971f04e90f541e627f6787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_5da23871ef18dc78a60cd630cf8df178412d71c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\junit-4.12_511c53aa5ac54b26ea1064f97d05a945c65d0e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_117291e03408dd962171e3a2664336f1c7ae0056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2_dbf26dcdf51a7e30d7e04106de350e3a0ad90eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_64d903adae2c9010e2e8ded289f102df3f569b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\javawriter-2.1.1_48fc66f0b5383ba05fcd8a18e0726d93e33fbd17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_aa580c26b01bf380b22aa317caaf03d739cb4015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\hamcrest-integration-1.3_170ad6aa249d0c8b25e8f474a00f948a428954d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_c51b571bd50bcc6c87409f95629739b02d7db2d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_c46cda63de7b635f54dc76780081363d1ddd8f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\hamcrest-library-1.3_d9700eed2a51614ec370441abc44e7e068394620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_02b699b9034039e912be9694fb2aae34213c2ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_8f94dc2dc0a013987609466eb47ffa76614337aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_0ca5d4415bfbce49189adca9d9e55bcfc2bb6803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.2_a2fdff413795774f4bac334fda4fcd228efb741b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\javax.inject-1_adcd1c76bdd7c06bc198208cf444ef167fb51ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test-runner-0.5_56eff898a39335fc5d55c5d8e467fff4597e7d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\Victor\Documents\Uni Homework\Comp Sci\301\Assignment 1\SizeBook\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test-rules-0.5_b63bfa638aa4def43b8241e4e8c338aba6b303fd.jar" />
+    </item>
+
+</items>
